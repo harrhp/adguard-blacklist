@@ -1,0 +1,32 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/harrhp/devcontainer-features/aliae:1": {},
+    "ghcr.io/harrhp/devcontainer-features/oh-my-posh:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file",
+        "editor.formatOnType": true,
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+            "path": "bash",
+            "icon": "terminal-bash",
+            "args": [
+              "--login"
+            ]
+          }
+        }
+      },
+      "extensions": [
+        "editorconfig.editorconfig",
+        "jbockle.jbockle-format-files",
+        "GitHub.vscode-github-actions"
+      ]
+    }
+  }
+}
