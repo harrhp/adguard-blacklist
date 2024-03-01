@@ -25,3 +25,4 @@
 ||targetads.io^
 ||api-statist.tinkoff.ru^
 ||sbermarket.tech^
+||uxfeedback.ru^
