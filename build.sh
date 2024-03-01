@@ -1,3 +1,4 @@
 #! /usr/bin/env bash
 
-npx @adguard/hostlist-compiler --config config.json --output compiled/hostlist.txt
+mkdir -p compiled
+npx --yes  @adguard/hostlist-compiler --config config/config.json --output compiled/hostlist.txt

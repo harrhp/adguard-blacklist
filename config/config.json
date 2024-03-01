@@ -1,5 +1,5 @@
 {
-  "name": "My list",
+  "name": "my list",
   "sources": [
     {
       "name": "AdGuard DNS filter",
@@ -53,7 +53,7 @@
     }
   ],
   "exclusions_sources": [
-    "exclusions.txt"
+    "config/exclusions.txt"
   ],
   "transformations": [
     "RemoveComments",
