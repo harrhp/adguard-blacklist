@@ -2,11 +2,6 @@
   "name": "my list",
   "sources": [
     {
-      "name": "AdGuard DNS filter",
-      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "type": "adblock"
-    },
-    {
       "name": "OISD Blocklist Full",
       "source": "https://big.oisd.nl/",
       "type": "adblock"
