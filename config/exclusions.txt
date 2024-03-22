@@ -1,2 +1,2 @@
-advcash.com
-wallet.advcash.com
+||wallet.advcash.com^
+||global.fe.mscr.io^

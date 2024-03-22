@@ -16,7 +16,6 @@
 ||tracker-api.my.ru^
 ||captive.keenetic.ru^
 ||sa.online.sberbank.ru^
-||sentry-do.x5.ru^
 ||inappstory.com^
 ||inappstory.ru^
 ||matomo.x5.ru^
@@ -26,3 +25,4 @@
 ||api-statist.tinkoff.ru^
 ||sbermarket.tech^
 ||uxfeedback.ru^
+/sentry/

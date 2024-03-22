@@ -11,7 +11,7 @@ on:
       - config/*
       - build.sh
   schedule:
-    - cron: "17 */12 * * *"
+    - cron: "17 9 * * *"
 
 jobs:
   build:
