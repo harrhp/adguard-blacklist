@@ -17,11 +17,6 @@
       "type": "adblock"
     },
     {
-      "name": "NoCoin Filter List",
-      "source": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-      "type": "hosts"
-    },
-    {
       "name": "Scam Blocklist by DurableNapkin",
       "source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
       "type": "adblock"
