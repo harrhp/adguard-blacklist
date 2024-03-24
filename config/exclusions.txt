@@ -1,2 +1,3 @@
 ||wallet.advcash.com^
 ||global.fe.mscr.io^
+||firebaseinstallations.googleapis.com^
