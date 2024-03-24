@@ -37,8 +37,8 @@
       "type": "adblock"
     },
     {
-      "name": "1Hosts (Pro)",
-      "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt",
+      "name": "1Hosts (Lite)",
+      "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
       "type": "adblock"
     }
   ],
