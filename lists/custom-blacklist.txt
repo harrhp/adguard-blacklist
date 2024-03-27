@@ -26,3 +26,4 @@
 ||sbermarket.tech^
 ||uxfeedback.ru^
 /sentry/
+||mct.bscscan.com^
