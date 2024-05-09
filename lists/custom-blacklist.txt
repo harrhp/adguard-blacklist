@@ -27,3 +27,4 @@
 ||uxfeedback.ru^
 /sentry/
 ||mct.bscscan.com^
+||mail.ru^
