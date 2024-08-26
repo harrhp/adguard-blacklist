@@ -1,1 +1,2 @@
 ||pusher.com^
+||cdn1.ozonusercontent.com^
