@@ -35,11 +35,6 @@
       "name": "HaGeZi's Ultimate DNS Blocklist",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
       "type": "adblock"
-    },
-    {
-      "name": "1Hosts (Lite)",
-      "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
-      "type": "adblock"
     }
   ],
   "exclusions_sources": [
