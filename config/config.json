@@ -35,6 +35,11 @@
       "name": "HaGeZi's Ultimate DNS Blocklist",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
       "type": "adblock"
+    },
+    {
+      "name": "Threat Intelligence Feeds",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "type": "adblock"
     }
   ],
   "exclusions_sources": [
